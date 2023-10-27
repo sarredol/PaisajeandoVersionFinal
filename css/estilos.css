@@ -109,7 +109,6 @@ nav {
 .buscar input{
     padding: 10px;
     font-size: 15px;
-    color: ;
     border: 1px solid white;
     border-radius: 50px;
 }
@@ -295,4 +294,105 @@ footer {
 
 
 /* AQUI TERMINA EL CSS DE JUAN ANDRES */
+
+
+
+/* AQUI INICIA DE ADONDE IR*/
+
+.vtm img{
+    width: 100%;
+}
+.tituloh2{
+    font-size: 40px;
+    color: #445940;
+    margin-top: 60px;
+    text-align: center;
+    font-family: 'Magra', sans-serif;
+}
+.seleccionB{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 50px;
+    margin-top: 40px;
+}
+.seleccionB input{
+    padding: 15px 80px;
+    font-size: 18px;
+    color: #445940;
+    border: 1px solid #445940;
+    border-radius: 1400px;
+    margin-left: 30px;
+}
+.vertodosm{ 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap
+    }
+
+.Visitanos1{
+    background-image: url(../img/vtm1.jpg);
+    width: 469.2px;
+    height: 400px;
+    margin:20px 20px;
+    margin-top: 20px;
+    flex-direction: column;
+}
+.Visitanos2{
+    background-image: url(../img/vtm2.jpg);
+    width: 469.2px;
+    height: 400px;
+    margin:20px 20px;
+    margin-top: 20px;
+}
+.Visitanos3{
+    background-image: url(../img/vtm3.jpg);
+    width: 469.2px;
+    height: 400px;
+    margin:20px 20px;
+    margin-top: 20px;
+}
+.Visitanos4{
+    background-image: url(../img/vtm4.jpg);
+    width: 469.2px;
+    height: 400px;
+    margin:20px 20px;
+    margin-top: 20px;
+}
+.Visitanos5{
+    background-image: url(../img/vtm5.jpg);
+    width: 469.2px;
+    height: 400px;
+    margin:20px 20px;
+    margin-top: 20px;
+}
+.Visitanos6{
+    background-image: url(../img/vtm6.jpg);
+    width: 469.2px;
+    height: 400px;
+    margin:20px 20px;
+    margin-top: 20px;
+}
+.vtm_p{
+    font-size: 40px;
+    color: white;
+    float: none;
+    margin-top: 230px;
+    font-family: 'Magra', sans-serif;
+    margin-left: 50px;
+    
+}
+.vd{
+    padding: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: #445940;
+    border: 1px solid white;
+    border-radius: 40px;
+    font-family: 'Magra', sans-serif;
+    background-color: white;
+    float: left;
+    margin-left: 50px;
+}
+/* AQUI TERMINA DE ADONDE IR*/
 
